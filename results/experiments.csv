@@ -1,0 +1,44 @@
+Number;ExperimentData;ExecutionMode;TimeTaken;Comments
+1;Business;Local;0.061;
+2;Business;Local;0.059;
+3;Business;Local;0.058;
+4;Business;Local;0.06;
+5;User;Local;53.5;
+6;User;Local;108.3;
+7;User;Local;72.5;
+8;User;Local;58.9;
+9;Business;Deployed - 2+ Executors - 4 Cores Each;0.171;
+10;Business;Deployed - 2+ Executors - 4 Cores Each;0.240;
+11;Business;Deployed - 2+ Executors - 4 Cores Each;0.142;
+12;Business;Deployed - 2+ Executors - 4 Cores Each;0.140;
+13;Business;Deployed - 2+ Executors - 4 Cores Each;0.212;
+14;Business;Deployed - 2+ Executors - 4 Cores Each;0.138;
+15;Business;Deployed - 2+ Executors - 4 Cores Each;0.136;
+16;Business;Deployed - 2+ Executors - 4 Cores Each;0.119;
+17;Business;Deployed - 2+ Executors - 4 Cores Each;0.126;10 Runs in a row with deleting the object after each evaluation
+18;Business;Deployed - 1 Executor - 4 Cores;0.066;10 Runs in a row with deleting the object after each evaluation
+19;Users;Deployed - 1 Executor - 4 Cores;82.76;1st execution - had to wait until it received a executor
+20;Users;Deployed - 1 Executor - 4 Cores;68.02;
+21;Users;Deployed - 1 Executor - 4 Cores;67.90;
+22;Users;Deployed - 1 Executor - 4 Cores;68.40;
+23;Users;Deployed - 1 Executor - 4 Cores;67.00;
+24;Users;Deployed - 1 Executor - 4 Cores;80.01;1st execution - had to wait until it received a executor
+25;Users;Deployed - 1 Executor - 4 Cores;67.17;
+26;Users;Deployed - 1 Executor - 4 Cores;67.74;
+27;Users;Deployed - 1 Executor - 4 Cores;67.60;
+28;Users;Deployed - 1 Executor - 4 Cores;67.01;Suggestion: ~67s as result
+29;Users;Deployed - 8 Executors - 8 Cores Each;20.57;
+30;Users;Deployed - 8 Executors - 8 Cores Each;17.16;
+31;Users;Deployed - 8 Executors - 8 Cores Each;17.24;
+32;Users;Deployed - 8 Executors - 8 Cores Each;17.17;
+33;Users;Deployed - 8 Executors - 8 Cores Each;17.31;
+34;Users;Deployed - 8 Executors - 8 Cores Each;17.54;
+35;Users;Deployed - 8 Executors - 8 Cores Each;17.35;
+36;Users;Deployed - 8 Executors - 8 Cores Each;16.97;
+37;Users;Deployed - 8 Executors - 8 Cores Each;16.99;
+38;Users;Deployed - 8 Executors - 8 Cores Each;16.26;Suggestion: ~17s as result
+39;Users;Deployed - 3 Executors (Auto Mode) - 8 Cores Each;36.72;
+40;Users;Deployed - 3 Executors (Auto Mode) - 8 Cores Each;31.58;
+41;Users;Deployed - 3 Executors (Auto Mode) - 8 Cores Each;30.91;
+42;Users;Deployed - 3 Executors (Auto Mode) - 8 Cores Each;31.15;
+43;Users;Deployed - 3 Executors (Auto Mode) - 8 Cores Each;29.74;Suggestion: ~31s as result
