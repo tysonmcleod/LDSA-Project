@@ -42,7 +42,32 @@ Number,ExperimentData,ExecutionMode,TimeTaken,Comments
 41,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,30.91,
 42,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,31.15,
 43,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,29.74,Suggestion: ~31s as result
-44,Reviews, Local,3511.21,
-45,Reviews, Local,3163.5,
-46,Reviews, Local,3341.504,
-47,Reviews, Local,3358.803, Suggestion: ~3343.75425 as result
+44,Reviews,Local,3511.21,
+45,Reviews,Local,3163.5,
+46,Reviews,Local,3.341.504,
+47,Reviews,Local,3.358.803,Suggestion: ~3343.75425 as result
+48,Reviews,Deployed - 2 Executors - 4 Cores,138.72,1st execution - had to wait until it received a executor
+49,Reviews,Deployed - 2 Executors - 4 Cores,126.18,
+50,Reviews,Deployed - 2 Executors - 4 Cores,122.76,
+51,Reviews,Deployed - 2 Executors - 4 Cores,124.32,
+52,Reviews,Deployed - 2 Executors - 4 Cores,124.04,Suggestion: ~124s as result
+53,Reviews,Deployed - 4 Executors - 8 Cores,61.92,1st execution - had to wait until it received a executor
+54,Reviews,Deployed - 4 Executors - 8 Cores,54.05,
+55,Reviews,Deployed - 4 Executors - 8 Cores,53.28,
+56,Reviews,Deployed - 4 Executors - 8 Cores,53.26,
+57,Reviews,Deployed - 4 Executors - 8 Cores,53.08,
+58,Reviews,Deployed - 4 Executors - 8 Cores,53.10,
+59,Reviews,Deployed - 4 Executors - 8 Cores,52.11,
+60,Reviews,Deployed - 4 Executors - 8 Cores,53.39,
+61,Reviews,Deployed - 4 Executors - 8 Cores,52.75,
+62,Reviews,Deployed - 4 Executors - 8 Cores,55.27,Suggestion: ~53s as result
+63,Reviews,Deployed - 8 Executors - 8 Cores,27.64,1st execution - had to wait until it received a executor
+64,Reviews,Deployed - 8 Executors - 8 Cores,22.04,
+65,Reviews,Deployed - 8 Executors - 8 Cores,20.40,
+66,Reviews,Deployed - 8 Executors - 8 Cores,20.77,
+67,Reviews,Deployed - 8 Executors - 8 Cores,21.27,
+68,Reviews,Deployed - 8 Executors - 8 Cores,20.48,
+69,Reviews,Deployed - 8 Executors - 8 Cores,21.19,
+70,Reviews,Deployed - 8 Executors - 8 Cores,20.93,
+71,Reviews,Deployed - 8 Executors - 8 Cores,19.77,
+72,Reviews,Deployed - 8 Executors - 8 Cores,21.98,Suggestion: ~21s as result
