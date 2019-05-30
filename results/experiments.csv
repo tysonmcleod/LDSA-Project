@@ -42,3 +42,7 @@ Number,ExperimentData,ExecutionMode,TimeTaken,Comments
 41,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,30.91,
 42,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,31.15,
 43,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,29.74,Suggestion: ~31s as result
+44,Reviews, Local,3511.21,
+45,Reviews, Local,3163.5,
+46,Reviews, Local,3341.504,
+47,Reviews, Local,3358.803, Suggestion: ~3343.75425 as result
