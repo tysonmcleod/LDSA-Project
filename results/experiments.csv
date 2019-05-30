@@ -7,67 +7,82 @@ Number,ExperimentData,ExecutionMode,TimeTaken,Comments
 6,User,Local,108.3,
 7,User,Local,72.5,
 8,User,Local,58.9,
-9,Business,Deployed - 2+ Executors - 4 Cores Each,0.171,
-10,Business,Deployed - 2+ Executors - 4 Cores Each,0.240,
-11,Business,Deployed - 2+ Executors - 4 Cores Each,0.142,
-12,Business,Deployed - 2+ Executors - 4 Cores Each,0.140,
-13,Business,Deployed - 2+ Executors - 4 Cores Each,0.212,
-14,Business,Deployed - 2+ Executors - 4 Cores Each,0.138,
-15,Business,Deployed - 2+ Executors - 4 Cores Each,0.136,
-16,Business,Deployed - 2+ Executors - 4 Cores Each,0.119,
-17,Business,Deployed - 2+ Executors - 4 Cores Each,0.126,10 Runs in a row with deleting the object after each evaluation
-18,Business,Deployed - 1 Executor - 4 Cores,0.066,10 Runs in a row with deleting the object after each evaluation
-19,Users,Deployed - 1 Executor - 4 Cores,82.76,1st execution - had to wait until it received a executor
-20,Users,Deployed - 1 Executor - 4 Cores,68.02,
-21,Users,Deployed - 1 Executor - 4 Cores,67.90,
-22,Users,Deployed - 1 Executor - 4 Cores,68.40,
-23,Users,Deployed - 1 Executor - 4 Cores,67.00,
-24,Users,Deployed - 1 Executor - 4 Cores,80.01,1st execution - had to wait until it received a executor
-25,Users,Deployed - 1 Executor - 4 Cores,67.17,
-26,Users,Deployed - 1 Executor - 4 Cores,67.74,
-27,Users,Deployed - 1 Executor - 4 Cores,67.60,
-28,Users,Deployed - 1 Executor - 4 Cores,67.01,Suggestion: ~67s as result
-29,Users,Deployed - 8 Executors - 8 Cores Each,20.57,
-30,Users,Deployed - 8 Executors - 8 Cores Each,17.16,
-31,Users,Deployed - 8 Executors - 8 Cores Each,17.24,
-32,Users,Deployed - 8 Executors - 8 Cores Each,17.17,
-33,Users,Deployed - 8 Executors - 8 Cores Each,17.31,
-34,Users,Deployed - 8 Executors - 8 Cores Each,17.54,
-35,Users,Deployed - 8 Executors - 8 Cores Each,17.35,
-36,Users,Deployed - 8 Executors - 8 Cores Each,16.97,
-37,Users,Deployed - 8 Executors - 8 Cores Each,16.99,
-38,Users,Deployed - 8 Executors - 8 Cores Each,16.26,Suggestion: ~17s as result
-39,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,36.72,
-40,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,31.58,
-41,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,30.91,
-42,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,31.15,
-43,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores Each,29.74,Suggestion: ~31s as result
-44,Reviews,Local,3511.21,
-45,Reviews,Local,3163.5,
-46,Reviews,Local,3.341.504,
-47,Reviews,Local,3.358.803,Suggestion: ~3343.75425 as result
-48,Reviews,Deployed - 2 Executors - 4 Cores,138.72,1st execution - had to wait until it received a executor
-49,Reviews,Deployed - 2 Executors - 4 Cores,126.18,
-50,Reviews,Deployed - 2 Executors - 4 Cores,122.76,
-51,Reviews,Deployed - 2 Executors - 4 Cores,124.32,
-52,Reviews,Deployed - 2 Executors - 4 Cores,124.04,Suggestion: ~124s as result
-53,Reviews,Deployed - 4 Executors - 8 Cores,61.92,1st execution - had to wait until it received a executor
-54,Reviews,Deployed - 4 Executors - 8 Cores,54.05,
-55,Reviews,Deployed - 4 Executors - 8 Cores,53.28,
-56,Reviews,Deployed - 4 Executors - 8 Cores,53.26,
-57,Reviews,Deployed - 4 Executors - 8 Cores,53.08,
-58,Reviews,Deployed - 4 Executors - 8 Cores,53.10,
-59,Reviews,Deployed - 4 Executors - 8 Cores,52.11,
-60,Reviews,Deployed - 4 Executors - 8 Cores,53.39,
-61,Reviews,Deployed - 4 Executors - 8 Cores,52.75,
-62,Reviews,Deployed - 4 Executors - 8 Cores,55.27,Suggestion: ~53s as result
-63,Reviews,Deployed - 8 Executors - 8 Cores,27.64,1st execution - had to wait until it received a executor
-64,Reviews,Deployed - 8 Executors - 8 Cores,22.04,
-65,Reviews,Deployed - 8 Executors - 8 Cores,20.40,
-66,Reviews,Deployed - 8 Executors - 8 Cores,20.77,
-67,Reviews,Deployed - 8 Executors - 8 Cores,21.27,
-68,Reviews,Deployed - 8 Executors - 8 Cores,20.48,
-69,Reviews,Deployed - 8 Executors - 8 Cores,21.19,
-70,Reviews,Deployed - 8 Executors - 8 Cores,20.93,
-71,Reviews,Deployed - 8 Executors - 8 Cores,19.77,
-72,Reviews,Deployed - 8 Executors - 8 Cores,21.98,Suggestion: ~21s as result
+9,User,Local,29.56,
+10,User,Local,48.90,
+11,User,Local,58.48,
+12,User,Local,44.66,
+13,User,Local,33.19,
+14,User,Local,23.27,
+15,User,Local,27.25,
+16,User,Local,41.86,
+17,User,Local,47.95,
+18,User,Local,48.4,
+19,User,Local,33.67,
+20,User,Local,34.82,
+21,User,Local,34.08,
+22,User,Local,32.86,
+23,User,Local,31.59,Average: ~45.46
+24,Business,Deployed - 2+ Executors - 4 Cores,0.171,
+25,Business,Deployed - 2+ Executors - 4 Cores,0.240,
+26,Business,Deployed - 2+ Executors - 4 Cores,0.142,
+27,Business,Deployed - 2+ Executors - 4 Cores,0.140,
+28,Business,Deployed - 2+ Executors - 4 Cores,0.212,
+29,Business,Deployed - 2+ Executors - 4 Cores,0.138,
+30,Business,Deployed - 2+ Executors - 4 Cores,0.136,
+31,Business,Deployed - 2+ Executors - 4 Cores,0.119,
+32,Business,Deployed - 2+ Executors - 4 Cores,0.126,10 Runs in a row with deleting the object after each evaluation
+33,Business,Deployed - 1 Executor - 4 Cores,0.066,10 Runs in a row with deleting the object after each evaluation
+34,Users,Deployed - 1 Executor - 4 Cores,82.76,1st execution - had to wait until it received a executor
+35,Users,Deployed - 1 Executor - 4 Cores,68.02,
+36,Users,Deployed - 1 Executor - 4 Cores,67.90,
+37,Users,Deployed - 1 Executor - 4 Cores,68.40,
+38,Users,Deployed - 1 Executor - 4 Cores,67.00,
+39,Users,Deployed - 1 Executor - 4 Cores,80.01,1st execution - had to wait until it received a executor
+40,Users,Deployed - 1 Executor - 4 Cores,67.17,
+41,Users,Deployed - 1 Executor - 4 Cores,67.74,
+42,Users,Deployed - 1 Executor - 4 Cores,67.60,
+43,Users,Deployed - 1 Executor - 4 Cores,67.01,Suggestion: ~67s as result
+44,Users,Deployed - 8 Executors - 8 Cores,20.57,
+45,Users,Deployed - 8 Executors - 8 Cores,17.16,
+46,Users,Deployed - 8 Executors - 8 Cores,17.24,
+47,Users,Deployed - 8 Executors - 8 Cores,17.17,
+48,Users,Deployed - 8 Executors - 8 Cores,17.31,
+49,Users,Deployed - 8 Executors - 8 Cores,17.54,
+50,Users,Deployed - 8 Executors - 8 Cores,17.35,
+51,Users,Deployed - 8 Executors - 8 Cores,16.97,
+52,Users,Deployed - 8 Executors - 8 Cores,16.99,
+53,Users,Deployed - 8 Executors - 8 Cores,16.26,Suggestion: ~17s as result
+54,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores,36.72,
+55,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores,31.58,
+56,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores,30.91,
+57,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores,31.15,
+58,Users,Deployed - 3 Executors (Auto Mode) - 8 Cores,29.74,Suggestion: ~31s as result
+59,Reviews,Local,3511.21,
+60,Reviews,Local,3163.50,
+61,Reviews,Local,3341.50,
+62,Reviews,Local,3358.80,Suggestion: ~3343.75 as result
+63,Reviews,Deployed - 2 Executors - 4 Cores,138.72,1st execution - had to wait until it received a executor
+64,Reviews,Deployed - 2 Executors - 4 Cores,126.18,
+65,Reviews,Deployed - 2 Executors - 4 Cores,122.76,
+66,Reviews,Deployed - 2 Executors - 4 Cores,124.32,
+67,Reviews,Deployed - 2 Executors - 4 Cores,124.04,Suggestion: ~124s as result
+68,Reviews,Deployed - 4 Executors - 8 Cores,61.92,1st execution - had to wait until it received a executor
+69,Reviews,Deployed - 4 Executors - 8 Cores,54.05,
+70,Reviews,Deployed - 4 Executors - 8 Cores,53.28,
+71,Reviews,Deployed - 4 Executors - 8 Cores,53.26,
+72,Reviews,Deployed - 4 Executors - 8 Cores,53.08,
+73,Reviews,Deployed - 4 Executors - 8 Cores,53.10,
+74,Reviews,Deployed - 4 Executors - 8 Cores,52.11,
+75,Reviews,Deployed - 4 Executors - 8 Cores,53.39,
+76,Reviews,Deployed - 4 Executors - 8 Cores,52.75,
+77,Reviews,Deployed - 4 Executors - 8 Cores,55.27,Suggestion: ~53s as result
+78,Reviews,Deployed - 8 Executors - 8 Cores,27.64,1st execution - had to wait until it received a executor
+79,Reviews,Deployed - 8 Executors - 8 Cores,22.04,
+80,Reviews,Deployed - 8 Executors - 8 Cores,20.40,
+81,Reviews,Deployed - 8 Executors - 8 Cores,20.77,
+82,Reviews,Deployed - 8 Executors - 8 Cores,21.27,
+83,Reviews,Deployed - 8 Executors - 8 Cores,20.48,
+84,Reviews,Deployed - 8 Executors - 8 Cores,21.19,
+85,Reviews,Deployed - 8 Executors - 8 Cores,20.93,
+86,Reviews,Deployed - 8 Executors - 8 Cores,19.77,
+87,Reviews,Deployed - 8 Executors - 8 Cores,21.98,Suggestion: ~21s as result

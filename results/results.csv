@@ -1,0 +1,12 @@
+ExperimentNr,Dataset,DatasetSize,ExecutionMode,Average Time Taken,Comments
+1,Business,0.135GB,Local (Moritz),0.06,Average of 10 Experiments
+2,Business,0.135GB,Deployed - 1 Executor - 4 Cores,0.066,Average of 10 Experiments
+3,Business,0.135GB,Deployed - 2+ Executors - 4 Cores,0.158,Average of 10 Experiments
+4,User,2.43GB,Local (Moritz),45.46,Average of 19 Experiments
+5,Users,2.43GB,Deployed - 1 Executor - 4 Cores,67.85,Average of 10 Experiments
+6,Users,2.43GB,Deployed - 3 Executors - 8 Cores,31.15,Average of 5 Experiments
+7,Users,2.43GB,Deployed - 8 Executors - 8 Cores,17.17,Average of 10 Experiments
+8,Reviews,5.22GB + 0.135GB,Local (Tyson),3343.75,Average of 5 Experiments
+9,Reviews,5.22GB + 0.135GB,Deployed - 2 Executors - 4 Cores,124.04,Average of 5 Experiments
+10,Reviews,5.22GB + 0.135GB,Deployed - 4 Executors - 8 Cores,53.08,Average of 10 Experiments
+11,Reviews,5.22GB + 0.135GB,Deployed - 8 Executors - 8 Cores,21.27,Average of 10 Experiments
